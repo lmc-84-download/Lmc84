@@ -1,5 +1,4 @@
-<iframe src="https://github.com">
-    <h1>LMC 8.4 Download</h1>
+ <h1>LMC 8.4 Download</h1>
     <p>Mobile photography has come a long way in recent years, thanks to advancements in smartphone camera technology. The LMC 8.4 Camera app is a prime example of how software can significantly enhance the photographic capabilities of mobile devices. In this article, we will delve into the features, benefits, and user experience of the LMC 8.4 Camera app, and why it has garnered a dedicated following among photography enthusiasts.</p>
 
     <h2>What is LMC 8.4?</h2>
